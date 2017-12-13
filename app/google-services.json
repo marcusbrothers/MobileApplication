@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "180556991930",
+    "firebase_url": "https://mobiletech-c55d9.firebaseio.com",
+    "project_id": "mobiletech-c55d9",
+    "storage_bucket": "mobiletech-c55d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180556991930:android:b085dcb09d52faae",
+        "android_client_info": {
+          "package_name": "com.marcus.mobileapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180556991930-5h14uqhkhkhkpnkh3jj5k3tg3ks4mls7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr-0y53R30p_ZsG12oaDRryw6EdpqZmCg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
